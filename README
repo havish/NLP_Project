@@ -1,0 +1,8 @@
+edit_distance.py : Is used to form the class labels for predicting the lemma of a token.
+extract_features.py : Extracts the considered features for every token in the training data.
+predict_gender.py : Predicts the gender for every token in the test data and also measures the accuracy of the results.
+predict_number.py : Predicts the number for every token in the test data and also measures the accuracy of the results.
+predict_person.py : Predicts the person morph tag for every token in the test data and also measures the accuracy of the results.
+predict_case.py : Predicts the case morph tag for every token in the test data and also measures the accuracy of the results.
+
+First run the extract features.py to extract all the features from the training data , then run the appropriate predict_morphtag.py code to get the resutls.
