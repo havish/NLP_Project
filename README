@@ -15,7 +15,7 @@ predict_case.py : Predicts the case morph tag for every token in the test data a
 
 #----------- HOW TO RUN THE PYTHON SCRIPTS ------------------------
 
-The link to the hindi Tree Bank :
+The link to the hindi Tree Bank : https://drive.google.com/file/d/0BzML8x9LVgaiU0FzRWE1WU5YTXM/view?usp=sharing
 
 Download the Tree bank and save it in the current directory i.e "NLP_Project"
 
